@@ -1,11 +1,11 @@
-package by.bsuir.dshparko.wt.tasks.first.task15.runner;
+package by.bsuir.anna.wt.tasks.first.task15.runner;
 
-import by.bsuir.dshparko.wt.tasks.first.scanner.InputData;
-import by.bsuir.dshparko.wt.tasks.first.task12.logic.Book;
-import by.bsuir.dshparko.wt.tasks.first.task15.logic.SortByAuthorThenTitle;
-import by.bsuir.dshparko.wt.tasks.first.task15.logic.SortByAuthorThenTitleThenPrice;
-import by.bsuir.dshparko.wt.tasks.first.task15.logic.SortByTitle;
-import by.bsuir.dshparko.wt.tasks.first.task15.logic.SortByTitleThenAuthor;
+import by.bsuir.anna.wt.tasks.first.scanner.InputData;
+import by.bsuir.anna.wt.tasks.first.task12.logic.Book;
+import by.bsuir.anna.wt.tasks.first.task15.logic.SortByAuthorThenTitle;
+import by.bsuir.anna.wt.tasks.first.task15.logic.SortByAuthorThenTitleThenPrice;
+import by.bsuir.anna.wt.tasks.first.task15.logic.SortByTitle;
+import by.bsuir.anna.wt.tasks.first.task15.logic.SortByTitleThenAuthor;
 
 import java.util.ArrayList;
 import java.util.Comparator;
