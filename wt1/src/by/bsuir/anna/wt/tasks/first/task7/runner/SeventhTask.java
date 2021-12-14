@@ -1,9 +1,9 @@
-package by.bsuir.dshparko.wt.tasks.first.task7.runner;
+package by.bsuir.anna.wt.tasks.first.task7.runner;
 
 
-import by.bsuir.dshparko.wt.tasks.first.printer.PrintData;
-import by.bsuir.dshparko.wt.tasks.first.scanner.InputData;
-import by.bsuir.dshparko.wt.tasks.first.task7.logic.ShellSort;
+import by.bsuir.anna.wt.tasks.first.printer.PrintData;
+import by.bsuir.anna.wt.tasks.first.scanner.InputData;
+import by.bsuir.anna.wt.tasks.first.task7.logic.ShellSort;
 
 public class SeventhTask {
     public static void main(String[] argv) {
