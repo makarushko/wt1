@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.first.printer;
+package by.bsuir.anna.wt.tasks.first.printer;
 
 public class PrintData {
     public static void printIntArray(int[] array) {
