@@ -1,7 +1,7 @@
-package by.bsuir.dshparko.wt.tasks.first.task1.runner;
+package by.bsuir.anna.wt.tasks.first.task1.runner;
 
-import static by.bsuir.dshparko.wt.tasks.first.scanner.InputData.inputDouble;
-import static by.bsuir.dshparko.wt.tasks.first.task1.logic.Decision.countEquation;
+import static by.bsuir.anna.wt.tasks.first.scanner.InputData.inputDouble;
+import static by.bsuir.anna.wt.tasks.first.task1.logic.Decision.countEquation;
 
 public class FirstTask {
     public static void main(String[] argv) {
