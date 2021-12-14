@@ -1,11 +1,11 @@
-package by.bsuir.dshparko.wt.tasks.first.task3.runner;
+package by.bsuir.anna.wt.tasks.first.task3.runner;
 
 
-import by.bsuir.dshparko.wt.tasks.first.task3.logic.CheckValues;
-import by.bsuir.dshparko.wt.tasks.first.task3.logic.FindFunction;
-import by.bsuir.dshparko.wt.tasks.first.task3.logic.PrintTable;
+import by.bsuir.anna.wt.tasks.first.task3.logic.CheckValues;
+import by.bsuir.anna.wt.tasks.first.task3.logic.FindFunction;
+import by.bsuir.anna.wt.tasks.first.task3.logic.PrintTable;
 
-import static by.bsuir.dshparko.wt.tasks.first.scanner.InputData.inputDouble;
+import static by.bsuir.anna.wt.tasks.first.scanner.InputData.inputDouble;
 
 public class ThirdTask {
     public static void main(String[] argc) {
