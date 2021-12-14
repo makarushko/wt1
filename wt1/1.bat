@@ -1,0 +1,1 @@
+java -jar C:\Users\Lenovo\wt1\out\artifacts\wt1_jar\wt1.jar
