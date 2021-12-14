@@ -1,9 +1,9 @@
-package by.bsuir.dshparko.wt.tasks.first.task9.runner;
+package by.bsuir.anna.wt.tasks.first.task9.runner;
 
-import by.bsuir.dshparko.wt.tasks.first.scanner.InputData;
-import by.bsuir.dshparko.wt.tasks.first.task9.classes.Ball;
-import by.bsuir.dshparko.wt.tasks.first.task9.classes.Basket;
-import by.bsuir.dshparko.wt.tasks.first.task9.logic.DoTask;
+import by.bsuir.anna.wt.tasks.first.scanner.InputData;
+import by.bsuir.anna.wt.tasks.first.task9.classes.Ball;
+import by.bsuir.anna.wt.tasks.first.task9.classes.Basket;
+import by.bsuir.anna.wt.tasks.first.task9.logic.DoTask;
 
 public class NinthTask {
     public static void main(String[] args) {
