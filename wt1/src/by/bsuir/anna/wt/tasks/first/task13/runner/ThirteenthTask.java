@@ -1,9 +1,9 @@
-package by.bsuir.dshparko.wt.tasks.first.task13.runner;
+package by.bsuir.anna.wt.tasks.first.task13.runner;
 
-import by.bsuir.dshparko.wt.tasks.first.task12.logic.Book;
-import by.bsuir.dshparko.wt.tasks.first.task13.logic.ProgrammerBook;
+import by.bsuir.anna.wt.tasks.first.task12.logic.Book;
+import by.bsuir.anna.wt.tasks.first.task13.logic.ProgrammerBook;
 
-import static by.bsuir.dshparko.wt.tasks.first.scanner.InputData.*;
+import static by.bsuir.anna.wt.tasks.first.scanner.InputData.*;
 
 public class ThirteenthTask {
     public static void main(String[] args) {
