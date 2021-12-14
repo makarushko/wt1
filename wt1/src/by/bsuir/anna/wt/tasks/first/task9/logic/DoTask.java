@@ -1,7 +1,7 @@
-package by.bsuir.dshparko.wt.tasks.first.task9.logic;
+package by.bsuir.anna.wt.tasks.first.task9.logic;
 
-import by.bsuir.dshparko.wt.tasks.first.task9.classes.Ball;
-import by.bsuir.dshparko.wt.tasks.first.task9.classes.Basket;
+import by.bsuir.anna.wt.tasks.first.task9.classes.Ball;
+import by.bsuir.anna.wt.tasks.first.task9.classes.Basket;
 
 import java.util.LinkedList;
 
