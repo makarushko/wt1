@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.first.task8.logic;
+package by.bsuir.anna.wt.tasks.first.task8.logic;
 
 import java.util.ArrayList;
 
