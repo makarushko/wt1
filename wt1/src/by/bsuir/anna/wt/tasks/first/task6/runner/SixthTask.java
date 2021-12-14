@@ -1,9 +1,9 @@
-package by.bsuir.dshparko.wt.tasks.first.task6.runner;
+package by.bsuir.anna.wt.tasks.first.task6.runner;
 
-import static by.bsuir.dshparko.wt.tasks.first.printer.PrintData.printIntMatrix;
-import static by.bsuir.dshparko.wt.tasks.first.scanner.InputData.fillIntArray;
-import static by.bsuir.dshparko.wt.tasks.first.scanner.InputData.inputInt;
-import static by.bsuir.dshparko.wt.tasks.first.task6.logic.Matrix.fillMatrix;
+import static by.bsuir.anna.wt.tasks.first.printer.PrintData.printIntMatrix;
+import static by.bsuir.anna.wt.tasks.first.scanner.InputData.fillIntArray;
+import static by.bsuir.anna.wt.tasks.first.scanner.InputData.inputInt;
+import static by.bsuir.anna.wt.tasks.first.task6.logic.Matrix.fillMatrix;
 
 public class SixthTask {
     public static void main(String[] argv) {
