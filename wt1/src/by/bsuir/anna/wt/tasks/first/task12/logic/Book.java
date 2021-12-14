@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.first.task12.logic;
+package by.bsuir.anna.wt.tasks.first.task12.logic;
 
 public class Book implements Cloneable, Comparable<Book> {
 
