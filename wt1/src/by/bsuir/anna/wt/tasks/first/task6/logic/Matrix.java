@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.first.task6.logic;
+package by.bsuir.anna.wt.tasks.first.task6.logic;
 
 public class Matrix {
     public static int[][] fillMatrix(int[] arr) {
