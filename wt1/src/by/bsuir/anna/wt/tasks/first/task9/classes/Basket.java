@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.first.task9.classes;
+package by.bsuir.anna.wt.tasks.first.task9.classes;
 
 import java.util.LinkedList;
 
