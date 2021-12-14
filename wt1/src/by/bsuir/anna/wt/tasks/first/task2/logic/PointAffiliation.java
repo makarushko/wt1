@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.first.task2.logic;
+package by.bsuir.anna.wt.tasks.first.task2.logic;
 
 public class PointAffiliation {
     private static final int UPPER_X1 = -4;
