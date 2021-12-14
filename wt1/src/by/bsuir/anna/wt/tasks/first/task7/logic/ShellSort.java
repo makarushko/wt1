@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.first.task7.logic;
+package by.bsuir.anna.wt.tasks.first.task7.logic;
 
 public class ShellSort {
     public static double[] sort(double[] array) {
