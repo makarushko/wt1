@@ -1,7 +1,7 @@
-package by.bsuir.dshparko.wt.tasks.first.task2.runner;
+package by.bsuir.anna.wt.tasks.first.task2.runner;
 
-import static by.bsuir.dshparko.wt.tasks.first.scanner.InputData.inputDouble;
-import static by.bsuir.dshparko.wt.tasks.first.task2.logic.PointAffiliation.checkAffiliation;
+import static by.bsuir.anna.wt.tasks.first.scanner.InputData.inputDouble;
+import static by.bsuir.anna.wt.tasks.first.task2.logic.PointAffiliation.checkAffiliation;
 
 public class SecondTask {
     public static void main(String[] argc) {
