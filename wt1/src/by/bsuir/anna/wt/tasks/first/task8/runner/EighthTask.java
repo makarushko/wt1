@@ -1,10 +1,10 @@
-package by.bsuir.dshparko.wt.tasks.first.task8.runner;
+package by.bsuir.anna.wt.tasks.first.task8.runner;
 
-import by.bsuir.dshparko.wt.tasks.first.scanner.InputData;
+import by.bsuir.anna.wt.tasks.first.scanner.InputData;
 
 import java.util.ArrayList;
 
-import static by.bsuir.dshparko.wt.tasks.first.task8.logic.SequencesMerging.merge;
+import static by.bsuir.anna.wt.tasks.first.task8.logic.SequencesMerging.merge;
 
 public class EighthTask {
     public static void main(String[] args) {
