@@ -1,8 +1,8 @@
-package by.bsuir.dshparko.wt.tasks.first.task5.runner;
+package by.bsuir.anna.wt.tasks.first.task5.runner;
 
-import static by.bsuir.dshparko.wt.tasks.first.scanner.InputData.fillIntArray;
-import static by.bsuir.dshparko.wt.tasks.first.scanner.InputData.inputInt;
-import static by.bsuir.dshparko.wt.tasks.first.task5.logic.MinElement.getMinElements;
+import static by.bsuir.anna.wt.tasks.first.scanner.InputData.fillIntArray;
+import static by.bsuir.anna.wt.tasks.first.scanner.InputData.inputInt;
+import static by.bsuir.anna.wt.tasks.first.task5.logic.MinElement.getMinElements;
 
 public class FifthTask {
     public static void main(String[] argv) {
