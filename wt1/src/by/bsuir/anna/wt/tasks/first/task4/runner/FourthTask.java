@@ -1,9 +1,9 @@
-package by.bsuir.dshparko.wt.tasks.first.task4.runner;
+package by.bsuir.anna.wt.tasks.first.task4.runner;
 
-import static by.bsuir.dshparko.wt.tasks.first.printer.PrintData.printIntArray;
-import static by.bsuir.dshparko.wt.tasks.first.scanner.InputData.fillIntArray;
-import static by.bsuir.dshparko.wt.tasks.first.scanner.InputData.inputInt;
-import static by.bsuir.dshparko.wt.tasks.first.task4.logic.PrimeNumber.findSimpleNumbers;
+import static by.bsuir.anna.wt.tasks.first.printer.PrintData.printIntArray;
+import static by.bsuir.anna.wt.tasks.first.scanner.InputData.fillIntArray;
+import static by.bsuir.anna.wt.tasks.first.scanner.InputData.inputInt;
+import static by.bsuir.anna.wt.tasks.first.task4.logic.PrimeNumber.findSimpleNumbers;
 
 public class FourthTask {
     public static void main(String[] argv) {
