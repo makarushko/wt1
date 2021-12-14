@@ -1,6 +1,6 @@
-package by.bsuir.dshparko.wt.tasks.first.scanner;
+package by.bsuir.anna.wt.tasks.first.scanner;
 
-import by.bsuir.dshparko.wt.tasks.first.task12.logic.Book;
+import by.bsuir.anna.wt.tasks.first.task12.logic.Book;
 
 import java.util.Scanner;
 
