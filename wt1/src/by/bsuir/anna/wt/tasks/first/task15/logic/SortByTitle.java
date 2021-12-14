@@ -1,6 +1,6 @@
-package by.bsuir.dshparko.wt.tasks.first.task15.logic;
+package by.bsuir.anna.wt.tasks.first.task15.logic;
 
-import by.bsuir.dshparko.wt.tasks.first.task12.logic.Book;
+import by.bsuir.anna.wt.tasks.first.task12.logic.Book;
 
 import java.util.Comparator;
 
