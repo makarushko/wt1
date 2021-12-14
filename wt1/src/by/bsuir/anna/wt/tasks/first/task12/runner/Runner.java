@@ -1,9 +1,9 @@
-package by.bsuir.dshparko.wt.tasks.first.task12.runner;
+package by.bsuir.anna.wt.tasks.first.task12.runner;
 
-import by.bsuir.dshparko.wt.tasks.first.task12.logic.Book;
+import by.bsuir.anna.wt.tasks.first.task12.logic.Book;
 
-import static by.bsuir.dshparko.wt.tasks.first.scanner.InputData.inputPositiveInt;
-import static by.bsuir.dshparko.wt.tasks.first.scanner.InputData.setInformationAboutBook;
+import static by.bsuir.anna.wt.tasks.first.scanner.InputData.inputPositiveInt;
+import static by.bsuir.anna.wt.tasks.first.scanner.InputData.setInformationAboutBook;
 
 public class Runner {
     public static void main(String[] args) {
