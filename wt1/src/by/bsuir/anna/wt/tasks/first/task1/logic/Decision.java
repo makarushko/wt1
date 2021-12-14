@@ -1,4 +1,4 @@
-package by.bsuir.dshparko.wt.tasks.first.task1.logic;
+package by.bsuir.anna.wt.tasks.first.task1.logic;
 
 public class Decision {
     public static double countEquation(double x, double y) {
